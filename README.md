@@ -14,8 +14,10 @@ Within the blueprint example mod files folder, there are both a `Packaged`, and 
 - UE4SS Version: Place the `Content` folder into your Unreal Engine project's root folder.
 
 **How To Test:**
-- Alpakit Version: Press `Shift+A` while in the game world. Requires the G1R [BP Modloader & Console Enabler](https://www.nexusmods.com/gothic1remake/mods/1) mod to be installed. 
-- UE4SS Version: Press `Shift+U` while in the game world. Requires the latest experimental [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) release to be installed. 
+- Alpakit Version: Press `Shift+A` while in the game world.
+  - Requires the G1R [BP Modloader & Console Enabler](https://www.nexusmods.com/gothic1remake/mods/1) mod to be installed. 
+- UE4SS Version: Press `Shift+U` while in the game world.
+  - Requires the latest experimental [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) release to be installed. 
 
 > [!NOTE]
 > Your Unreal Engine project's root folder would also be named `G1R` when using the [unofficial modkit](https://github.com/Kein/G1R). 
