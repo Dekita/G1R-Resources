@@ -35,3 +35,18 @@ Once installed, you will be able to press the `H` key to see `Key pressed: H - H
 
 > [!NOTE]
 > The Example Lua mod assumes you have already installed UE4SS correctly before adding the example mod. 
+
+## Custom Editor Splash Screens
+Within the `Gothic1EditorSplashScreens` folder, there is a number of bitmap files (`.bmp`). 
+
+To use any of them within your own Unreal Engine project follow these simple steps;
+- Open your G1R Unreal Engine project folder
+- Open your `Project Settings` menu
+- Search for `Splash`
+- Under `Platforms - Windows`, and `Editor Splash`, click the three little dots to select the desired splash image.
+- When asked, allow your project to import the asset. This will create a `Splash` folder within your project, with a `Splash.uasset` of your selected file.
+
+When you next load the editor, it will use your selected splash image. 
+
+## Whats The ".usmap" File?
+This file is for use within programs like `FModel`, and is required to get full data on specific assets. Within FModel, you can easily select the custom mappings file to use from your local files. After selecting a valid mappings file, FModel will then be able to properly view and export assets. 
