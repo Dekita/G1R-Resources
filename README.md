@@ -12,4 +12,6 @@ Within the blueprint example mod files folder, there are both a `Packaged`, and 
 **The Source Files:**
 - Alpakit Version: Place the `Mods` folder into your Unreal Engine project's root folder.
 - UE4SS Version: Place the `Content` folder into your Unreal Engine project's root folder.
-* Your Unreal Engine project's root folder would also be named `G1R` when using the [unofficial modkit](https://github.com/Kein/G1R). 
+
+> [!NOTE]
+> Your Unreal Engine project's root folder would also be named `G1R` when using the [unofficial modkit](https://github.com/Kein/G1R). 
