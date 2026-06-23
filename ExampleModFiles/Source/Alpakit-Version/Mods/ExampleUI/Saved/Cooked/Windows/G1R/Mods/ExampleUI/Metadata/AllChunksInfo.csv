@@ -1,0 +1,5 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/ExampleUI/MOD_ExampleUI,/Script/Engine.Blueprint,,6879,None
+0,/ExampleUI/MOD_ExampleUI,/Script/Engine.BlueprintGeneratedClass,,6879,None
+0,/ExampleUI/WB_ExampleUI_Alpakit,/Script/UMGEditor.WidgetBlueprint,,9982,None
+0,/ExampleUI/WB_ExampleUI_Alpakit,/Script/UMG.WidgetBlueprintGeneratedClass,,9982,None
